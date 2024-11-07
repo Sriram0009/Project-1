@@ -9,7 +9,7 @@ This project analyzes traffic accident data from Tempe to identify key factors c
 - **Course:** IE6600: Computation and Visualization for Analytics
 - **Institution:** Northeastern University
 - **Project:** Traffic Accident Analysis
-- **Group Members:** Ashna Arora, Dheeraj Kumar Goli, Siyuan Gao
+- **Group Members:** Sriram kumar
 
 ## Report Summary
 
